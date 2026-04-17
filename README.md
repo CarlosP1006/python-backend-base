@@ -1,4 +1,3 @@
-````markdown
 # python-backend-base
 
 Template profissional para APIs em Python, com arquitetura simples, desacoplada e pronta para iniciar novos projetos.
@@ -132,4 +131,3 @@ Comandos:
 2. Implemente `providers` e `repositories` reais.
 3. Registre as dependencias no container em `src/infra/containers/app_container.py`.
 4. Mantenha o fluxo `Controller -> Service -> Provider/Repository` para escalar com organizacao.
-````
